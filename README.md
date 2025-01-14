@@ -1,5 +1,5 @@
 # HIBRID
-Please follow the instructions below to run the code.
+HIBRID is built on two pipelines: [STAMP](https://github.com/KatherLab/STAMP) for image preprocessing and [MARUGOTO](https://github.com/KatherLab/marugoto/tree/survival) for model training. Please follow the instructions below to run the code.
 ## Installation 
 For setting up a local environment, note that the following steps are for Ubuntu Linux systems. First, install OpenSlide using either the command below or the official installation instructions:
 ```
