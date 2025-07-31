@@ -61,3 +61,6 @@ t = stats: OS overall survival, OS_E os event (i.e. dead/alive), DFS disease fre
 m = model path (location of .pth output from train.py script)
 c = cohort (additional name for output of eval.py)
 ```
+## License
+
+This repository is licensed under the [MIT License](./LICENSE).
